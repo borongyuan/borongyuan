@@ -27,4 +27,4 @@ Here are some ideas to get you started:
   </tbody>
 </table>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/borongyuan/borongyuan/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/borongyuan/borongyuan/output/github-contribution-grid-snake-dark.svg)
